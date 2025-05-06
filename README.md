@@ -20,4 +20,4 @@ Converts the chunks into vectors (smart searchable format)
 When you ask a question:
 It searches the most relevant chunks
 Sends them to the local AI model (like *Mistral)
-The model reads the info and gives an answer
+The model reads the info and gives an answer.
