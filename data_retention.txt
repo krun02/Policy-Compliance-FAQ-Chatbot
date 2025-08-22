@@ -1,0 +1,8 @@
+Data Retention Policy
+
+1. Data shall be retained only for as long as necessary to fulfill legal, regulatory, or business requirements.
+2. HIPAA: All patient records must be retained for at least 6 years from the date of creation or the date when it was last in effect.
+3. SOC 2: Retention schedules must be documented and enforced for customer data and audit logs.
+4. NIST SP 800-53 (AU-11): Organizations must retain audit logs for a defined period to support investigations and meet compliance needs.
+5. Secure deletion procedures (e.g., cryptographic erasure) must be applied once data is no longer required.
+6. Backups must comply with the retention policy and be regularly validated for integrity.

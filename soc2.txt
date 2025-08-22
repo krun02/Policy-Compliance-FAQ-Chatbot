@@ -1,0 +1,19 @@
+SOC 2 is a framework for managing customer data based on five trust service criteria: security, availability, processing integrity, confidentiality, and privacy.
+
+Organizations must implement access controls, encryption, incident response plans, and monitoring systems to comply with SOC 2.
+
+SOC 2 requires data retention policies to align with legal and contractual obligations. Audit trails and logs must be maintained for accountability.
+
+All user access must be reviewed quarterly to ensure proper privilege assignment. Changes to production systems must follow a documented change management policy.
+
+Service providers are expected to maintain business continuity and disaster recovery procedures.
+
+SOC 2 requires that service organizations implement logging and monitoring to detect unauthorized system activity. Logs must be retained and reviewed regularly.
+
+All production deployments must follow a documented change management procedure, including approvals and rollback planning.
+
+Employees with access to customer data must undergo background checks and annual security training.
+
+Vulnerability management must include periodic scans and timely patching based on risk level.
+
+Encryption keys used for protecting data must be rotated regularly and stored securely using a key management system (KMS).

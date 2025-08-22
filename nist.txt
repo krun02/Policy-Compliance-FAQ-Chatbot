@@ -1,0 +1,19 @@
+NIST SP 800-53 provides a comprehensive catalog of security and privacy controls for federal information systems and organizations.
+
+NIST recommends implementing continuous monitoring to detect threats and anomalies. Controls include access management, risk assessment, and incident response.
+
+Organizations must develop a system security plan (SSP), define roles and responsibilities, and conduct regular control assessments.
+
+Data must be classified and labeled according to its sensitivity. Secure disposal procedures must be followed for obsolete systems or media.
+
+All system changes must be documented and reviewed under a formal change control process. Multi-factor authentication (MFA) is required for privileged accounts.
+
+NIST recommends using configuration baselines to ensure consistent security settings across systems. These baselines must be reviewed and updated regularly.
+
+Security awareness and training must be provided to all users with access to organizational systems and information.
+
+Organizations should implement an Incident Response Plan (IRP) that defines roles, communication channels, containment strategies, and recovery procedures.
+
+All high-impact systems must undergo annual penetration testing as part of ongoing risk assessments.
+
+Backup and recovery procedures must be tested periodically to ensure system availability and resilience.

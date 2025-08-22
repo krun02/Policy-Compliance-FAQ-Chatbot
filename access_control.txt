@@ -1,0 +1,9 @@
+Access Control Policy
+
+1. Access to systems and data must be based on the principle of least privilege.
+2. HIPAA: Users must be assigned a unique user ID and access should be logged and monitored (HIPAA 164.312(a)(1)).
+3. SOC 2: Logical access controls must be in place to restrict access based on roles and responsibilities.
+4. NIST SP 800-53 (AC-2, AC-6): Access must be controlled via RBAC, reviewed periodically, and revoked promptly upon role changes or termination.
+5. Multi-factor authentication (MFA) is required for administrative and remote access.
+6. Default passwords must be changed during initial system setup.
+

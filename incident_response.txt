@@ -1,0 +1,10 @@
+Incident Response Policy
+
+1. All security incidents must be reported immediately to the security team.
+2. HIPAA: Covered entities must have procedures for responding to and mitigating security incidents (HIPAA 164.308(a)(6)).
+3. SOC 2: The organization must maintain an incident response plan that includes preparation, detection, containment, eradication, recovery, and lessons learned.
+4. NIST SP 800-53 (IR-4): Response procedures must be developed and tested regularly through tabletop or live exercises.
+5. All incidents must be documented in an incident response log and retained per data retention policies.
+6. Contact lists and escalation paths must be updated quarterly.
+
+

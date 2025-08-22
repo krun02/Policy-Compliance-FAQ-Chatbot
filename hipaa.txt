@@ -1,0 +1,19 @@
+The Health Insurance Portability and Accountability Act (HIPAA) requires covered entities and business associates to protect the confidentiality, integrity, and availability of Protected Health Information (PHI).
+
+HIPAA mandates that PHI be stored securely and only accessible to authorized personnel. Physical and electronic safeguards must be implemented.
+
+The HIPAA Security Rule requires encryption of ePHI at rest and in transit. Audit logs must be enabled and regularly reviewed.
+
+HIPAA requires healthcare records to be retained for at least six years. Any access to PHI must be logged, and patients must be notified in case of a breach.
+
+Annual HIPAA training is mandatory for all employees handling PHI.
+
+Covered entities must designate a HIPAA Privacy Officer and a HIPAA Security Officer responsible for ensuring compliance with applicable rules.
+
+Mobile devices containing PHI must be encrypted and protected with strong passwords or biometrics.
+
+Workforce members must report any suspected or confirmed unauthorized access to PHI within 24 hours.
+
+HIPAA allows patients to request access to their medical records and receive an electronic copy within 30 days.
+
+Role-based access control (RBAC) must be enforced to ensure minimum necessary access to PHI.
